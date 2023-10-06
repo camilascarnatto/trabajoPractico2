@@ -1,0 +1,3 @@
+Las clases manejan una buena cohesion, ya que cada clase tiene bien definido sus responsabilidades.
+Manejan bien el ocultamiento de la informacion, al tener privados a los atributos y metodos que acceden a ellos,
+lo que hace que el encapsulamiento esté bien planteado tambien
